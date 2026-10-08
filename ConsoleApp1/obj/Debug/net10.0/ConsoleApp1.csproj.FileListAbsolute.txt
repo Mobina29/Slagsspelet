@@ -12,3 +12,4 @@ c:\Users\mobina.chowdhury\Documents\Slagsspelet\ConsoleApp1\obj\Debug\net10.0\re
 c:\Users\mobina.chowdhury\Documents\Slagsspelet\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 c:\Users\mobina.chowdhury\Documents\Slagsspelet\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 c:\Users\mobina.chowdhury\Documents\Slagsspelet\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+c:\Users\mobina.chowdhury\Documents\Slagsspelet\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
